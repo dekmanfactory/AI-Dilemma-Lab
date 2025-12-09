@@ -1,0 +1,5 @@
+{
+  "name": "AI 딜레마 랩 (AI Dilemma Lab)",
+  "description": "블록 코딩 스타일의 인터페이스를 통해 AI 윤리 딜레마를 체험하고, 공리주의와 의무론 등 다양한 관점에서 의사결정을 학습하는 시뮬레이션 앱입니다.",
+  "requestFramePermissions": []
+}
